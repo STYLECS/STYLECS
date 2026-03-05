@@ -1,5 +1,5 @@
-## Hi there 👋
-
+![STYLE](img/Github-Banner-H1.png)
+### Yaahooo!! I'm STYLE ———————
 <!--
 **STYLECS/STYLECS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
