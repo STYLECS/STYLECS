@@ -1,8 +1,7 @@
 ![STYLE](img/Github-Banner-H1.png)
 # Yaahooo!! I'm STYLE
 
-<marquee scrollamount="20"> 🔥 Unity Game Developer | 🎮 Game Designer  🔥 </marquee>
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=24&center=true&vCenter=true&width=500&lines=Unity+Game+Developer;C%23+Programmer)
 ```csharp
 public class AboutMe : MonoBehaviour
 {
