@@ -39,4 +39,4 @@ public class AboutMe : MonoBehaviour
 #### 🎨 Design
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=whitee" /> <img src="https://img.shields.io/badge/Piskel-Pixel%20Art-F7A41D?style=for-the-badge" /> <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=STYLECS&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=STYLECS&theme=tokyonight)
