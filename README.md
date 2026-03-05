@@ -42,6 +42,6 @@ public class AboutMe : MonoBehaviour
 ## GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=STYLECS&theme=tokyonight)
 
+## Play game with me
 <img src="https://raw.githubusercontent.com/STYLECS/STYLECS/output/snake.svg" alt="Snake animation" />
 
-###
