@@ -45,3 +45,4 @@ public class AboutMe : MonoBehaviour
 ## 👾 Play game with me
 <img src="https://raw.githubusercontent.com/STYLECS/STYLECS/output/snake.svg" alt="Snake animation" />
 
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdja252aWV5ajY4b2l6eGxpcW90NGtwMmQ1bWVqMGpyODI1YnQ3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2XkvjX2UJ2fPDDkm6x/giphy.gif" width="380"/>
