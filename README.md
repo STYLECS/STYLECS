@@ -1,5 +1,5 @@
 ![STYLE](img/Github-Banner-H1.png)
-<h2 align="center" style="color:#00FF00;">Yaahooo!! I'm STYLE</h2>
+<h1 align="center" style="color:#00FF00;">Yaahooo!! I'm STYLE</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00FF41&size=25&center=true&vCenter=true&width=600&lines=Unity+Game+Developer;C%23+Programmer"/>
