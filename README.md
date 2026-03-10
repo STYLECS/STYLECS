@@ -1,5 +1,9 @@
 ![STYLE](img/Github-Banner-H1.png)
-# Yaahooo!! I'm STYLE
+<h2 align="center" style="color:#00FF00;">Yaahooo!! I'm STYLE</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=STYLECS&theme=dark&background=000000&ring=00FF00&fire=00FF00"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00FF41&size=25&center=true&vCenter=true&width=600&lines=Unity+Game+Developer;C%23+Programmer"/>
@@ -30,9 +34,9 @@ public class AboutMe : MonoBehaviour
 #### 🎨 Design
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=whitee" /> <img src="https://img.shields.io/badge/Piskel-Pixel%20Art-F7A41D?style=for-the-badge" /> <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" />
 
-## 📈 Github Streak
+<h2 align="center" style="color:#00FF00;">📈 Github Streak</h2>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=STYLECS&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=STYLECS&theme=dark&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00AA00"/>
 </p>
 
 
