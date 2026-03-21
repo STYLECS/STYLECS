@@ -8,8 +8,8 @@
 ```csharp
 public class AboutMe : MonoBehaviour
 {
-    public string Name             = "Muhammad Nurul Najmi Mertayasa";
-    public string MadeUpName       = "STYLE";
+    public string Name             = "STYLE";
+    public int age                 = "18";
     public string Role             = "Game Developer, Gamer";
     public string Location         = "Bali/Gianyar/Sukawati";
     public string[] Passion        = { "Gaming", "Game Programming" };
