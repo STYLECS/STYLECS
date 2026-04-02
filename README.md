@@ -41,6 +41,8 @@ public class AboutMe : MonoBehaviour
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdja252aWV5ajY4b2l6eGxpcW90NGtwMmQ1bWVqMGpyODI1YnQ3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2XkvjX2UJ2fPDDkm6x/giphy.gif" width="225"/>
+</p><p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdja252aWV5ajY4b2l6eGxpcW90NGtwMmQ1bWVqMGpyODI1YnQ3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2XkvjX2UJ2fPDDkm6x/giphy.gif" width="225"/>
 </p>
 
 > *"You never meet the same person twice — not even in the same person."*
